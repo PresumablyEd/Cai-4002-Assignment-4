@@ -317,11 +317,7 @@ The AI tools served as knowledgeable teaching assistants, accelerating developme
 
 ---
 
-## 10. References
 
-1. Scikit-learn Documentation: https://scikit-learn.org/
-2. NumPy Documentation: https://numpy.org/
-3. Pandas Documentation: https://pandas.pydata.org/
-4. Streamlit Documentation: https://docs.streamlit.io/
-5. "Machine Learning: A Probabilistic Perspective" - Kevin Murphy
-6. "Pattern Recognition and Machine Learning" - Christopher Bishop
+## Streamlit Website
+
+https://cai-4002-assignment-4-zlsxpbtptwhgdsilveb8z7.streamlit.app/
