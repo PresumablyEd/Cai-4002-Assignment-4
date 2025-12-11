@@ -325,9 +325,3 @@ The AI tools served as knowledgeable teaching assistants, accelerating developme
 4. Streamlit Documentation: https://docs.streamlit.io/
 5. "Machine Learning: A Probabilistic Perspective" - Kevin Murphy
 6. "Pattern Recognition and Machine Learning" - Christopher Bishop
-
----
-
-**Project Repository:** Available upon request
-**Contact Information:** [Student Email]
-**Course Instructor:** [Instructor Name]
